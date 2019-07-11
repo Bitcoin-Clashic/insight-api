@@ -225,18 +225,22 @@
     ]
   },
   {
-    "poolName": "BTCChina Pool",
-    "url": "https://pool.btcchina.com/",
+    "poolName": "TNET Pool",
+    "url": "https://pool.title.network/",
     "searchStrings": [
-      "BTCChina Pool",
-      "btcchina.com"
+      "Title Network",
+      "TNET Pool",
+      "blake2b",
+      "pool.title.network"
     ]
   },
   {
-    "poolName":"BTCC Pool",
-    "url":"https://pool.btcc.com/",
+    "poolName":"Blockmasters Pool - TNET",
+    "url":"http://blockmasters.co/",
     "searchStrings":[
-      "/BTCC/"
+      "TNET",
+      "blockmasters",
+      "blockmasters.co"
     ]
   }
 ]
